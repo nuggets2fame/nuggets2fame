@@ -1,4 +1,4 @@
-## 👋 Hello there! ![waving hand](https://github.com/denvercoder1/readme-md-generator/raw/main/assets/wave.gif)
+## 👋 Hello there! <img src="https://raw.githubusercontent.com/ginny100/ginny100/main/assets/waving-hand.webp" width="30" />
 
 ### Content Creator and Developer 
 
